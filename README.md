@@ -1,6 +1,9 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust week8 mini project: Command-Line URL Shortener
+Create a command-line tool to shorten URLs using a URL shortening service "tinyurl.com". The application will accept a long URL as input and return a shortened version of the URL.
 
-## References
+![image](https://user-images.githubusercontent.com/44468782/227054505-2c2a914b-e2ce-416a-b1e8-c336506bc5b0.png)
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+## How to run this program
+```
+cargo run
+```
